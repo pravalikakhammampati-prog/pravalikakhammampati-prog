@@ -1,8 +1,10 @@
 <div align="center">
 
   <!-- 1. CUSTOM BANNER -->
-  <!-- Using the raw link so the image renders correctly -->
-  <img src="https://raw.githubusercontent.com/pravalikakhammampati-prog/pravalikakhammampati-prog/fde5d1da477351fd1925ef7fe5a98a28e221a840/pexels-pixabay-57705.jpg" width="100%" style="border-radius: 15px; margin-bottom: 20px;" alt="Banner Image" />
+  <!-- Note: GitHub Markdown prevents overlaying text via code. The text below acts as the caption/header. -->
+  <img src="https://raw.githubusercontent.com/pravalikakhammampati-prog/pravalikakhammampati-prog/504808335818dc8de8aa80799d279cd57d01b8bf/Misc/pexels-pixabay-57705.jpg" width="100%" style="border-radius: 10px;" alt="Banner" />
+
+  <br>
 
   <!-- 2. TYPING INTRO -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi,+I'm+Pravalika!;Embedded+Systems+Student;Hardware-Software+Integration;Open-Source+Contributor" alt="Typing SVG" />
@@ -36,7 +38,7 @@
 
   <br>
 
-  <!-- 5. TECH STACK (Option 3 Style) -->
+  <!-- 5. TECH STACK -->
   <h3>🛠️ Technical Arsenal</h3>
   <img src="https://skillicons.dev/icons?i=c,cpp,py,matlab,linux" />
   <br>
@@ -64,7 +66,7 @@
 
   ---
 
-  <!-- 7. EXTENDED GITHUB STATS -->
+  <!-- 7. GITHUB STATS -->
   <h3>📊 GitHub Analytics</h3>
 
   <div align="center">
