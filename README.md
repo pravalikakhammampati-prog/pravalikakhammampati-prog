@@ -27,7 +27,7 @@
   ---
 
   <!-- Project Section -->
-  ### 📡 Featured Architecture
+  ### 📡 Featured Projects
   
   <div align="left">
   
