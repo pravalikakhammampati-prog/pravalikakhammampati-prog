@@ -1,6 +1,10 @@
 <div align="center">
 
-  <!-- Header with Typing Effect -->
+  <!-- 1. CUSTOM BANNER -->
+  <!-- Using the raw link so the image renders correctly -->
+  <img src="https://raw.githubusercontent.com/pravalikakhammampati-prog/pravalikakhammampati-prog/fde5d1da477351fd1925ef7fe5a98a28e221a840/pexels-pixabay-57705.jpg" width="100%" style="border-radius: 15px; margin-bottom: 20px;" alt="Banner Image" />
+
+  <!-- 2. TYPING INTRO -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi,+I'm+Pravalika!;Embedded+Systems+Student;Hardware-Software+Integration;Open-Source+Contributor" alt="Typing SVG" />
 
   <p align="center">
@@ -10,26 +14,42 @@
 
   <br>
 
-  <!-- Fixed "Current Focus" Section - Clean & Centered -->
-  <samp>
-    🚀 <b>Focusing on:</b> Advanced Embedded Engineering & Real-Time Constraints
-  </samp>
+  <!-- 3. CURRENT FOCUS -->
+  <a href="https://github.com/pravalikakhammampati-prog">
+    <img src="https://img.shields.io/badge/CURRENT_FOCUS-DEVELOPING_EMBEDDED_ARCHITECTURES-blue?style=for-the-badge&logo=github&logoColor=white&color=1a1b26">
+  </a>
 
   <br><br>
 
-  <!-- Tech Stack (From Option 3) -->
+  <!-- 4. ABOUT ME SECTION -->
+  <div align="left">
+    <h3>👩‍💻 Hello World!</h3>
+    <p>
+      I am an <b>Embedded Systems Student</b> passionate about the low-level logic that drives modern hardware. My work sits at the intersection of <b>silicon and software</b>, optimizing code for constrained environments.
+    </p>
+    <ul>
+      <li>🔭 I’m currently exploring <b>RTOS scheduling and Linux Kernel modules</b>.</li>
+      <li>⚡ I specialize in writing efficient <b>C/C++</b> for microcontroller applications.</li>
+      <li>🤖 My goal is to build scalable, autonomous hardware systems.</li>
+    </ul>
+  </div>
+
+  <br>
+
+  <!-- 5. TECH STACK (Option 3 Style) -->
+  <h3>🛠️ Technical Arsenal</h3>
   <img src="https://skillicons.dev/icons?i=c,cpp,py,matlab,linux" />
   <br>
   <img src="https://img.shields.io/badge/Skill-RTOS-1f425f?style=flat-square&color=8A2BE2" height="30">
 
   <br><br>
-  
+
   ---
 
-  <!-- Project Section -->
-  ### 📡 Featured Projects
+  <!-- 6. FEATURED PROJECT -->
+  <h3>📡 Featured Architecture</h3>
   
-  <div align="left">
+  <div align="left"> 
   
   #### 🌧️ Autonomous Weather-Responsive Wardrobe System
   > *An intelligent IoT solution for automated garment preservation.*
@@ -44,9 +64,20 @@
 
   ---
 
-  <!-- Stats -->
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=pravalika&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Pravalika's Stats" />
-  </p>
+  <!-- 7. EXTENDED GITHUB STATS -->
+  <h3>📊 GitHub Analytics</h3>
+
+  <div align="center">
+    <!-- Top Languages Card -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pravalikakhammampati-prog&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="languages graph" />
+    
+    <!-- General Stats Card -->
+    <img src="https://github-readme-stats.vercel.app/api?username=pravalikakhammampati-prog&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph" />
+    
+    <br>
+    
+    <!-- Streak Stats -->
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pravalikakhammampati-prog&theme=tokyonight&hide_border=true" alt="streak graph" />
+  </div>
 
 </div>
