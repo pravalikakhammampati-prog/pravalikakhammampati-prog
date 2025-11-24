@@ -1,7 +1,6 @@
 <div align="center">
 
   <!-- 1. CUSTOM BANNER -->
-  <!-- Note: GitHub Markdown prevents overlaying text via code. The text below acts as the caption/header. -->
   <img src="https://raw.githubusercontent.com/pravalikakhammampati-prog/pravalikakhammampati-prog/504808335818dc8de8aa80799d279cd57d01b8bf/Misc/pexels-pixabay-57705.jpg" width="100%" style="border-radius: 10px;" alt="Banner" />
 
   <br>
@@ -14,16 +13,27 @@
      <i>Bridging the gap between hardware and intelligent software.</i>
   </p>
 
+  <!-- 3. CONTACT SECTION (New!) -->
+  <p align="center">
+    <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    &nbsp;
+    <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+
   <br>
 
-  <!-- 3. CURRENT FOCUS -->
+  <!-- 4. CURRENT FOCUS -->
   <a href="https://github.com/pravalikakhammampati-prog">
     <img src="https://img.shields.io/badge/CURRENT_FOCUS-DEVELOPING_EMBEDDED_ARCHITECTURES-blue?style=for-the-badge&logo=github&logoColor=white&color=1a1b26">
   </a>
 
   <br><br>
 
-  <!-- 4. ABOUT ME SECTION -->
+  <!-- 5. ABOUT ME SECTION -->
   <div align="left">
     <h3>👩‍💻 Hello World!</h3>
     <p>
@@ -38,7 +48,7 @@
 
   <br>
 
-  <!-- 5. TECH STACK -->
+  <!-- 6. TECH STACK -->
   <h3>🛠️ Technical Arsenal</h3>
   <img src="https://skillicons.dev/icons?i=c,cpp,py,matlab,linux" />
   <br>
@@ -48,7 +58,7 @@
 
   ---
 
-  <!-- 6. FEATURED PROJECT -->
+  <!-- 7. FEATURED PROJECT -->
   <h3>📡 Featured Architecture</h3>
   
   <div align="left"> 
@@ -66,20 +76,20 @@
 
   ---
 
-  <!-- 7. GITHUB STATS -->
+  <!-- 8. GITHUB STATS (Fixed & Updated Provider) -->
   <h3>📊 GitHub Analytics</h3>
 
   <div align="center">
-    <!-- Top Languages Card -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pravalikakhammampati-prog&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="languages graph" />
-    
-    <!-- General Stats Card -->
-    <img src="https://github-readme-stats.vercel.app/api?username=pravalikakhammampati-prog&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph" />
-    
+    <a href="https://github.com/pravalikakhammampati-prog">
+      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pravalikakhammampati-prog&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
+    </a>
+    <a href="https://github.com/pravalikakhammampati-prog">
+      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pravalikakhammampati-prog&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+    </a>
     <br>
-    
-    <!-- Streak Stats -->
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pravalikakhammampati-prog&theme=tokyonight&hide_border=true" alt="streak graph" />
+    <a href="https://github.com/pravalikakhammampati-prog">
+      <img height="160em" src="https://streak-stats.demolab.com/?user=pravalikakhammampati-prog&theme=tokyonight&hide_border=true"/>
+    </a>
   </div>
 
 </div>
