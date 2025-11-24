@@ -13,27 +13,16 @@
      <i>Bridging the gap between hardware and intelligent software.</i>
   </p>
 
-  <!-- 3. CONTACT SECTION (New!) -->
-  <p align="center">
-    <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    &nbsp;
-    <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
-
   <br>
 
-  <!-- 4. CURRENT FOCUS -->
+  <!-- 3. CURRENT FOCUS -->
   <a href="https://github.com/pravalikakhammampati-prog">
     <img src="https://img.shields.io/badge/CURRENT_FOCUS-DEVELOPING_EMBEDDED_ARCHITECTURES-blue?style=for-the-badge&logo=github&logoColor=white&color=1a1b26">
   </a>
 
   <br><br>
 
-  <!-- 5. ABOUT ME SECTION -->
+  <!-- 4. ABOUT ME SECTION -->
   <div align="left">
     <h3>👩‍💻 Hello World!</h3>
     <p>
@@ -48,7 +37,7 @@
 
   <br>
 
-  <!-- 6. TECH STACK -->
+  <!-- 5. TECH STACK -->
   <h3>🛠️ Technical Arsenal</h3>
   <img src="https://skillicons.dev/icons?i=c,cpp,py,matlab,linux" />
   <br>
@@ -58,7 +47,7 @@
 
   ---
 
-  <!-- 7. FEATURED PROJECT -->
+  <!-- 6. FEATURED PROJECT -->
   <h3>📡 Featured Architecture</h3>
   
   <div align="left"> 
@@ -76,7 +65,7 @@
 
   ---
 
-  <!-- 8. GITHUB STATS (Fixed & Updated Provider) -->
+  <!-- 7. GITHUB STATS -->
   <h3>📊 GitHub Analytics</h3>
 
   <div align="center">
@@ -91,5 +80,21 @@
       <img height="160em" src="https://streak-stats.demolab.com/?user=pravalikakhammampati-prog&theme=tokyonight&hide_border=true"/>
     </a>
   </div>
+
+  <br><br>
+
+  <!-- 8. FOOTER / CONTACT (New Minimal Vibe) -->
+  ---
+  <p align="center">
+    <samp>👇 Let's Connect</samp>
+    <br><br>
+    <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+      <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+      <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+    </a>
+  </p>
 
 </div>
